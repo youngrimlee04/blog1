@@ -1,1 +1,1 @@
-# blog1
+# Making blog webpage using Django
